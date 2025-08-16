@@ -1,3 +1,6 @@
 [submodule "lib/zktls-contracts"]
 	path = lib/zktls-contracts
 	url = https://github.com/primus-labs/zktls-contracts
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
