@@ -39,3 +39,6 @@ next-env.d.ts
 RULES.md
 CLAUDE.md
 .claude/
+lib/
+broadcast/
+cache/

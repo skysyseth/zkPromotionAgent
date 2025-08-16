@@ -28,3 +28,7 @@ zkPromotionAgent 是一个基于 **零知识证明 (zk)** 与 **AI 智能体 (Ag
 - [ ] 扩展更多社交平台验证 (Twitter, YouTube, Instagram)  
 - [ ] 支持按点击/转化率结算 (Oracle)  
 - [ ] DAO 治理：广告主与博主社区共治  
+
+## Monad Testnet 合约地址
+
+0x022313DD2EcB4Bb9E72D9bdbf35395Df97eAc903
